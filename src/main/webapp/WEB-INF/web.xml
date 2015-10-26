@@ -18,7 +18,6 @@
         <servlet-name>springGwtRemoteServiceServlet</servlet-name>
         <url-pattern>/hellogwt/springGwtServices/*</url-pattern>
     </servlet-mapping>
-
     <welcome-file-list>
         <welcome-file>HelloGWT.html</welcome-file>
     </welcome-file-list>
